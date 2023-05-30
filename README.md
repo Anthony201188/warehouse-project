@@ -112,7 +112,7 @@ Would you like to order this item?(y/n) n
 
 Thank you for your visit, Martin!
 ```
-**Search & found in 2 locations. Order more than available and accepting maximum.**
+**Search & found in 2 locations. Orderk more than available and accepting maximum.**
 
 ```
 What is your user name? Mathilda
